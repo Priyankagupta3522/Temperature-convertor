@@ -1,4 +1,4 @@
-# Temperature Converter – Mini Project 🌡️  
+# Temperature Converter – Mini Project 
 
 ## Description  
 A simple yet efficient **Temperature Converter** built using **HTML, CSS, and JavaScript**. This web-based tool allows users to convert temperatures between **Celsius, Fahrenheit, and Kelvin** instantly.  
